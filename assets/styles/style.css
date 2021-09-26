@@ -1,0 +1,20 @@
+body {
+    color: orange;
+    text-align: center;
+}
+
+nav {
+    font-size: 5rem;
+}
+
+nav ul li:hover {
+    font-size: 5.5em;
+}
+
+img {
+    width: 15vw;
+}
+
+img:hover {
+    width: 25vw;
+}
